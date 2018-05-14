@@ -1,0 +1,16 @@
+{
+"version": "1.0.0",
+"summary": "An API wrapper around the Wordpress REST API.",
+"repository": "https://github.com/wking-io/elm-press.git",
+"license": "BSD-3-Clause",
+"source-directories": [
+"src"
+],
+"exposed-modules": [
+"SelectList"
+],
+"dependencies": {
+"elm-lang/core": "5.0.0 <= v < 6.0.0"
+},
+"elm-version": "0.18.0 <= v < 0.19.0"
+}
